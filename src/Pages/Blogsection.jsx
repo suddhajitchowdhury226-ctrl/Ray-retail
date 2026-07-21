@@ -10,7 +10,7 @@ const BlogSection = () => {
             <div className="hero-text">
               <h1>
                 Empowering retailers with unbeatable wholesale prices and fast,
-                reliable delivery.
+                reliable's delivery.
               </h1>
               <p>
                 Discover top-quality products sourced directly from trusted
