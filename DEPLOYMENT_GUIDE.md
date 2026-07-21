@@ -28,17 +28,17 @@
    
    EMAIL_USER=your_email_here
    
-   EMAIL_PASS=wnev vnxw sjso shzw
+   EMAIL_PASS=your_email_app_password_here
    
-   SHIPENGINE_API_KEY=TEST_vYfklLQTl7aTsEve+3ZFZ0/TIwRkfXlfnBYwNGmVlPs
+   SHIPENGINE_API_KEY=your_shipengine_api_key_here
    
    PAYPAL_MODE=sandbox
    
-   PAYPAL_CLIENT_ID=ATmOliDZIqhsWJ16nE_WS2CS9v_tNjUD1l3GI4kJHLv11N2o1e7jVqfkBLexQaLjMVXFG3b67hPwvMOI
+   PAYPAL_CLIENT_ID=your_paypal_client_id_here
    
-   PAYPAL_CLIENT_SECRET=EAVd7CpVm63CK1u-bjMqZuYQLToMoeithln_aJ2PzEN9gtwJjaTBABKUbwengsz18jzeR7WffPG_05eQ
+   PAYPAL_CLIENT_SECRET=your_paypal_client_secret_here
    
-   ADMIN_REGISTRATION_KEY=4b5a70fa82d5794dc4c3749f1df3189d32b09beec9dc506e274e2814ac0cbddf
+   ADMIN_REGISTRATION_KEY=your_admin_registration_key_here
    
    NODE_ENV=production
    ```
@@ -64,7 +64,7 @@
 
 4. **Add Environment Variables**:
    ```
-   VITE_STRIPE_PUBLISHABLE_KEY=pk_live_51MAeA9LUu4k32Wb7pRhRVQGFhx6HaA5e1S0eJFgrtap3OMpLzFvtbVHVtJwpRsCHBU5cyfTljMErNyBxeqjMXAt500ypjUvPbq
+   VITE_STRIPE_PUBLISHABLE_KEY=pk_live_your_stripe_publishable_key_here
    
    VITE_BASE_URL=https://ray-retail-backend.vercel.app
    ```
